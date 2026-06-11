@@ -4,6 +4,8 @@ A machine learning-powered SMS spam detector that classifies messages with confi
 
 **Detects spam signals** including urgency tactics, false claims, financial offers, and overpromises — with detailed breakdowns showing exactly why a message looks suspicious.
 
+🔗 **Live Demo:** [spam-mail-det.streamlit.app](https://spam-mail-det.streamlit.app/)
+
 ---
 
 ## ✨ Features
